@@ -45,7 +45,7 @@ namespace start_zw
             catch (System.Exception ex)
             {
                 ed.WriteMessage(ex.Message);
-                zlicz = zlicz = 1;
+                zlicz = 1;
             }
         }
     }
