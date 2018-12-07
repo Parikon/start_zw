@@ -21,6 +21,7 @@ namespace start_zw
         {
             Zaladuj("skala_zw.dll");
             Zaladuj("library1_zw.dll");
+            Zaladuj("ramki_zw.dll");
 
             if (zlicz == 0)
             {               
